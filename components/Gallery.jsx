@@ -1,9 +1,36 @@
-import React from 'react'
+// pages/index.js
 
-function Gallery() {
+export default function Gallery(props) {
+  // const posts = props.posts;
   return (
-    <div className='inline-block align-middle'>Gallery</div>
-  )
+    // <div style={{ padding: 30 }}>
+    //   <div>
+    //     {posts.map((post) => (
+    //       <div
+    //         key={post.id}
+    //         style={{ padding: 20, borderBottom: "1px solid #ccc" }}
+    //       >
+    //         <h2>{post.title}</h2>
+    //         <p>{post.content}</p>
+    //       </div>
+    //     ))}
+    //   </div>
+    // </div>
+    <div>
+      hamza
+    </div>
+  );
 }
 
-export default Gallery
+// Fetching data from the JSON file
+// import path from "path";
+// export async function getStaticProps() {
+//   const filePath = path.join(process.cwd(), "data.json");
+//   const jsonData = await fsPromises.readFile(filePath);
+//   const objectData = JSON.parse(jsonData);
+//   console.log("data", objectData);
+
+//   return {
+//     props: objectData,
+//   };
+// }

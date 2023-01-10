@@ -61,7 +61,7 @@ function Navbar() {
                   <Link href="/"> Home</Link>
                 </li>
                 <li className="text-white">
-                  <Link href="/Gallery">Gallery</Link>
+                  <Link href="/gallery">Gallery</Link>
                 </li>
                 <li className="text-white">
                   <Link href="/">About US</Link>

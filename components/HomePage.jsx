@@ -5,7 +5,7 @@ import Images from "../Images/992-articulation";
 import mypic from "../Images/download (1).jpg";
 import mypic2 from '../Images/download.jpg';
 import mypic1 from "../Images/images.jpg";
-function Page1() {
+function HomePage() {
   const defaultOptions = {
     loop: true,
     autoplay: true,
@@ -110,4 +110,4 @@ function Page1() {
   );
 }
 
-export default Page1;
+export default HomePage;

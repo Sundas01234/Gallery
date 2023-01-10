@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "@next/font": "13.1.0",
+    "fs.promises": "^0.1.2",
     "next": "13.1.0",
+    "node-jsencrypt": "^1.0.0",
+    "promise-fs": "^2.1.1",
     "react": "18.2.0",
     "react-card-slider-component": "^1.0.9",
     "react-dom": "18.2.0",
