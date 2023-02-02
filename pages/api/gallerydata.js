@@ -8,4 +8,5 @@ export default async function readGallery(req, res) {
   const fileContents = await fs.readFile(jsonDirectory + '/data.json', 'utf8');
   //Return the content of the data file in json format
   res.status(200).json(fileContents);
+  
 }

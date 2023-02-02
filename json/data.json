@@ -1,25 +1,36 @@
 {
     "posts": [
       {
-        "id": 1,
-        "title": "Post 1",
-        "content": "This is the full content of post 1"
+        "id": 1,        
+        "title": "Gallery",
+        "content": "OGDEN CONTEMPORARY ARTS inspires local and regional artists through active involvement with the international contemporary art community. OCA strives to be viewed as a credible and internationally respected art establishment; while empowering artists with the facilities, environment and experience to excel in their medium and enrich their lives."
       },
       {
         "id": 2,
-        "title": "Post 2",
-        "content": "This is the full content of post 2"
+        "title": "Sketch art",
+        "content": "OGDEN CONTEMPORARY ARTS inspires local and regional artists through active involvement with the international contemporary art community. OCA strives to be viewed as a credible and internationally respected art establishment; while empowering artists with the facilities, environment and experience to excel in their medium and enrich their lives."
       },
       {
         "id": 3,
-        "title": "Post 3",
-        "content": "This is the full content of post 3"
+        "title": "Gallery",
+        "content": "OGDEN CONTEMPORARY ARTS inspires local and regional artists through active involvement with the international contemporary art community. OCA strives to be viewed as a credible and internationally respected art establishment; while empowering artists with the facilities, environment and experience to excel in their medium and enrich their lives."
       },
       {
         "id": 4,
-        "title": "Post 4",
-        "content": "This is the full content of post 4"
+        "title": "Art Gallery",
+        "content": "OGDEN CONTEMPORARY ARTS inspires local and regional artists through active involvement with the international contemporary art community. OCA strives to be viewed as a credible and internationally respected art establishment; while empowering artists with the facilities, environment and experience to excel in their medium and enrich their lives."
+      },
+      {
+        "id": 5,
+        "title": "Art Gallery",
+        "content": "OGDEN CONTEMPORARY ARTS inspires local and regional artists through active involvement with the international contemporary art community. OCA strives to be viewed as a credible and internationally respected art establishment; while empowering artists with the facilities, environment and experience to excel in their medium and enrich their lives."
+      },
+      {
+        "id": 6,
+        "title": "Art Gallery",
+        "content": "OGDEN CONTEMPORARY ARTS inspires local and regional artists through active involvement with the international contemporary art community. OCA strives to be viewed as a credible and internationally respected art establishment; while empowering artists with the facilities, environment and experience to excel in their medium and enrich their lives."
       }
+      
     ]
   }
   

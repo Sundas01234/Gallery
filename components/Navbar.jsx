@@ -64,7 +64,7 @@ function Navbar() {
                   <Link href="/gallery">Gallery</Link>
                 </li>
                 <li className="text-white">
-                  <Link href="/">About US</Link>
+                  <Link href="/about_us">About US</Link>
                 </li>
                 <li className="text-white">
                   <Link href="/">Contact US</Link>
