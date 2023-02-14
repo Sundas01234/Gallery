@@ -1,5 +1,5 @@
 import Image from "next/image";
-import React, { useState } from "react";
+import React from "react";
 
 import { SliderData } from "./SliderData";
 const Slider = ({ slides }) => {
@@ -16,14 +16,15 @@ const Slider = ({ slides }) => {
   if (!Array.isArray(slides) || slides.length <= 0) {
     return null;
   }
+ 
   return (
     <div id="gallery">
-      <h1>slider</h1>
+      <h1>Slider</h1>
       <div>
         {SliderData.map((slide, index) => {
           return (
             <div
-              key={index}
+              key={index.id}
               className={
                 index === current
                   ? "opacity-[1] ease-in duration-1000"
@@ -45,6 +46,6 @@ const Slider = ({ slides }) => {
       </div>
     </div>
   );
-};
 
+      }
 export default Slider;
