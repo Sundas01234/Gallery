@@ -1,6 +1,8 @@
 // pages/index.js
 
 import useSWR from "swr";
+import Slider from "./Slider";
+import { SliderData } from "./SliderData";
 
 
 //Write a fetcher function to wrap the native fetch function and return the result of a call to url in json format
@@ -31,7 +33,7 @@ export default function Gallery(props) {
     
     
       <div>
-        
+        <Slider slides={SliderData}/>
         <div>
         <div className="text-gray-400 body-font ">
           <div className="container px-5 py-24 mx-auto">
